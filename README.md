@@ -1,3 +1,4 @@
+My Projects Include the following
 Housing Prices in Mexico
 Explored whether real estate prices are more influenced by property size or location using exploratory data analysis and regression techniques.
 
